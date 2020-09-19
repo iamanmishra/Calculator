@@ -97,8 +97,8 @@ void calculator_menu(void)
             __fpurge(stdin);
             getchar();
             break;
-        case DIVIDE:
-            printf("\n\t%d / %d = %d\nEnter to continue", 
+        case FACTORIAL:
+            printf("\n\t%d! = %d\nEnter to continue", 
             calculator_operand1,
             Factorial(calculator_operand1));
             
