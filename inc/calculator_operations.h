@@ -49,6 +49,6 @@ int divide(int operand1, int operand2);
 * @param[in] operand1 
 * @return Result
 */
-int factorial(int operand1)
+int factorial(int operand1);
 
 #endif  /* #define __CALCULATOR_OPERATIONS_H__ */
