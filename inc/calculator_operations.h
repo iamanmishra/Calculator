@@ -44,4 +44,11 @@ int multiply(int operand1, int operand2);
 */
 int divide(int operand1, int operand2);
 
+/**
+*  Factorial of a operand and returns the result
+* @param[in] operand1 
+* @return Result
+*/
+int factorial(int operand1)
+
 #endif  /* #define __CALCULATOR_OPERATIONS_H__ */
